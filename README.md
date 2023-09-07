@@ -10,7 +10,7 @@ My name is TungBach. I am an M.Sc. in Computer Science, majoring in Artificial I
 
 <a href="https://github.com/tuzgbach/Homemap-QRCode">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tuzgbach=Homemap-QRcode&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?theme=radical" />
 </a>    
 <a href="https://github.com/uvipen/ASCII-generator/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
