@@ -10,7 +10,7 @@ My name is TungBach. I am an M.Sc. in Computer Science, majoring in Artificial I
   
 <a href="https://github.com/tuzgbach/Homemap-QRCode">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Homemap-QRcode&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/Homemap-QRcode&theme=merko" />
 </a>
 
 <a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
