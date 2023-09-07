@@ -7,14 +7,10 @@ My name is TungBach. I am an M.Sc. in Computer Science, majoring in Artificial I
 
 
 ![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
+  
 <a href="https://github.com/tuzgbach/Homemap-QRCode">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?theme=radical" />
-</a>    
-<a href="https://github.com/uvipen/ASCII-generator/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuzgbach&repo=Homemap-QRcode&theme=merko" />
 </a>
 
 <a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
