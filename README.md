@@ -1,16 +1,50 @@
-### WELCOME TO MY PAGE 👋👋👋
-My name is TungBach. Im entrepreneur and Software Developer<br>
-## 📫 How to reach me: 
+# Welcome to My Page 👋👋👋
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tuzg-bach-3a0b041aa/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/tuzgbach)
+My name is TungBach. I'm an entrepreneur and Software Developer.
 
+## 📫 How to reach me:
 
+[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/tuzg-bach-3a0b041aa/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/tuzgbach)
 
-![TuzgBach github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tungbach&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+---
 
-<a href="https://github.com/tuzgbach/homemap-web-1/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tungbach&repo=Homemap-web-1&theme=radical" />
-</a>
+## 🔧 Technologies & Tools
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tuzgbach&repo=github-readme-stats)](https://github.com/tuzgbach/homemap-web-1)
+Here are some of the technologies and tools I work with:
+
+- 💻 Programming Languages: JavaScript, Python, C++
+- 🌐 Web Development: HTML, CSS, React, Node.js
+- 📊 Database: MongoDB, MySQL
+- 🚀 Version Control: Git
+- 🌟 IDEs: Visual Studio Code, PyCharm
+
+---
+
+## 📂 Projects
+
+Here are some of the projects I have worked on:
+
+1. [Project 1](link_to_project_1) - Description of project 1.
+2. [Project 2](link_to_project_2) - Description of project 2.
+3. [Project 3](link_to_project_3) - Description of project 3.
+
+Feel free to explore my GitHub repositories for more!
+
+---
+
+## 📚 Blog
+
+I also write about tech and development on my [blog](link_to_blog). Check it out!
+
+---
+
+## 🌟 Fun Facts
+
+- 🎵 I love playing the guitar.
+- 🌍 I enjoy traveling and exploring new places.
+- 🎮 I'm a gamer in my free time.
+
+---
+
+Thanks for visiting my page! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/tuzg-bach-3a0b041aa/) or [GitHub](https://github.com/tuzgbach). Let's connect and collaborate! 😄
