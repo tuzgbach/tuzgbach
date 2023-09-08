@@ -25,7 +25,7 @@ Here are some of the technologies and tools I work with:
 
 Here are some of the projects I have worked on:
 
-1. [Project 1](https://github.com/tuzgbach/homemap-web-1) - Ecommerce interior.
+1. [Homemap-web-1](https://github.com/tuzgbach/homemap-web-1) - Ecommerce interior.
 2. [Project 2](link_to_project_2) - Description of project 2.
 3. [Project 3](link_to_project_3) - Description of project 3.
 
