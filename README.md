@@ -3,8 +3,8 @@
 My name is TungBach. I'm an entrepreneur and Software Developer.
 
 ## 📫 How to reach me:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/)]()
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuzgbach&show_icons=true&theme=radical)
+
 
 [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/tuzg-bach-3a0b041aa/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/tuzgbach)
