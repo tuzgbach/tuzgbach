@@ -4,7 +4,7 @@ My name is TungBach. I'm an entrepreneur and Software Developer.
 
 ## 📫 How to reach me:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tuzgbach&repo=github-readme-stats)](https://github.com/tuzgbach/github-readme-stats)
 
 [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/tuzg-bach-3a0b041aa/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/tuzgbach)
