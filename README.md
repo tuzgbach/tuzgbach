@@ -1,10 +1,10 @@
 # Welcome to My Page 👋
 
-My name is TungBach. I'm an Entrepreneur and Amateur Software Engineer.
+My name is TungBach. I am an entrepreneur and amateur software engineer.
 
-About Startup, I have a project about home, stay here i lauchn a website ecommerce for products Home. 
+Regarding Startup, I built a home interior project, the project launched an e-commerce website providing products for homes. 
 Homemap.asia - 2023
-I have product for project:
+Launched products of the project:
 1. Candle
 
 ## 📫 How to reach me:
