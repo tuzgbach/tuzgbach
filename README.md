@@ -1,4 +1,4 @@
-# Welcome to My Page 👋👋👋
+# Welcome to My Page 👋
 
 My name is TungBach. I'm an Entrepreneur and Amateur Software Engineer.
 
